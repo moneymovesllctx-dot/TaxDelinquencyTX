@@ -33,13 +33,13 @@ This plugin connects Claude to a live MCP server backed by Supabase. It exposes 
 
 ## Data
 
-Data is sourced from official county tax assessor-collector offices and updated weekly. All data is public record under the Texas Public Information Act.
+Data is sourced from official county tax assessor-collector public records under the Texas Public Information Act. Update frequency varies by county.
 
 ## Disclaimer
 
 This plugin provides access to **public record** data obtained from Texas county tax assessor-collector offices. By using this plugin, you agree to the following:
 
-- **No warranty on accuracy.** Records are updated weekly but may not reflect real-time payment status, ownership changes, or other modifications. Always verify data directly with the relevant county tax office before making any legal, financial, or investment decision.
+- **No warranty on accuracy.** Data update frequency varies by county and records may not reflect real-time payment status, ownership changes, or other modifications. Always verify data directly with the relevant county tax office before making any legal, financial, or investment decision.
 - **Not legal or financial advice.** Results from this plugin do not constitute legal or financial advice. Consult a licensed attorney or financial advisor before acting on any information returned.
 - **Responsible use required.** This data may not be used to harass, intimidate, or unlawfully contact property owners. Any outreach to property owners using mailing address data must comply with applicable federal and state law, including the Telephone Consumer Protection Act (TCPA), the CAN-SPAM Act, and Texas Business & Commerce Code Chapter 302.
 - **No guarantee of completeness.** Not all Texas counties are represented, and data coverage varies by county. Absence of a property from results does not confirm the absence of a tax delinquency.
