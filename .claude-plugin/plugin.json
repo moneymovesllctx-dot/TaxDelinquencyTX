@@ -1,0 +1,11 @@
+{
+  "name": "tax-delinquency",
+  "description": "Search Texas tax delinquent properties across 11 counties (Bexar, Collin, Comal, Dallas, Denton, Ector, Harris, Nueces, Tarrant, Travis, Brazoria). Filter by owner name, amount owed, SPTB property type, litigation status, payment plan, and more. Returns all available data per property including mailing address, appraised value, and delinquency details.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Money Moves LLC",
+    "email": "moneymovesllc.tx@gmail.com"
+  },
+  "keywords": ["tax", "real estate", "texas", "delinquent", "property", "investment", "commercial"],
+  "license": "SEE LICENSE IN LICENSE"
+}

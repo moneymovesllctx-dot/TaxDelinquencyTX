@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tax-delinquency": {
+      "type": "http",
+      "url": "https://tax-delinquency-mcp-573993074468.us-central1.run.app/mcp"
+    }
+  }
+}

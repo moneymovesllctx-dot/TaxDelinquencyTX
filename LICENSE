@@ -1,0 +1,31 @@
+Copyright (c) 2026 Money Moves LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for personal, academic, or internal business purposes, subject to
+the following conditions:
+
+1. ATTRIBUTION. Any use of this Software must include clear attribution to
+   Money Moves LLC as the original author.
+
+2. NO COMMERCIAL REDISTRIBUTION. You may not sell, license, sublicense, or
+   otherwise commercially distribute the Software, the data it returns, or any
+   product or service that is substantially derived from or dependent on the
+   Software, without prior written permission from Money Moves LLC.
+   Contact: moneymovesllc.tx@gmail.com
+
+3. NO COMPETING PRODUCTS. You may not use the Software, its source code, or
+   the data it returns as the primary basis for building a competing paid
+   data product, API, plugin, or service that provides Texas tax delinquency
+   data to third parties.
+
+4. DATA USE. Data returned by this Software is sourced from public county
+   records. Users are responsible for compliance with all applicable laws
+   governing the use of that data, including but not limited to the Telephone
+   Consumer Protection Act (TCPA) and Texas Business & Commerce Code Chapter 302.
+
+5. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL MONEY MOVES LLC BE LIABLE FOR
+   ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
+
+For commercial licensing inquiries, contact: moneymovesllc.tx@gmail.com
