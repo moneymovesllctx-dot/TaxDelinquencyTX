@@ -35,3 +35,7 @@ You have access to a live database of Texas tax delinquent properties across 11 
 - **Dallas and Harris** don't have SPTB codes in the data.
 - Results default to 50 per page; use `limit` and `offset` to paginate.
 - Always show the `county` field so users know which dataset each result came from.
+
+## Disclaimer
+
+Data is sourced from official county public records. Update frequency varies by county. Always verify current status directly with the relevant county tax office before making any legal or financial decision.
