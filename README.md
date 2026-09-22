@@ -48,4 +48,4 @@ Money Moves LLC makes no representations regarding the fitness of this data for 
 
 ## Author
 
-Money Moves LLC · moneymovesllc.tx@gmail.com
+TaxDelinquency.com · info@taxdelinquency.com
